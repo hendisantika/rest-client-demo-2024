@@ -1,4 +1,5 @@
 # RestClient in Spring Boot 3 - Builder, Timeout, Interceptor, RequestFactory
+> This repo is used in this Youtube video: https://youtu.be/iNWVlF8o0A4
 
 ## 1. Practice when using RestClient
 > **Noted:** RestClient is thread-safe
